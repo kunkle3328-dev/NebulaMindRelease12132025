@@ -1,0 +1,7 @@
+{
+  "name": "NebulaMind Update",
+  "description": "A production-grade AI notebook powered by Gemini Pro 3 and Gemini Live. Features RAG-based chat, source management, and real-time audio conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
